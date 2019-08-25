@@ -1,0 +1,52 @@
+header {
+    background-color: #FCDB00;
+}
+.phone_logo {
+	width: 50%;
+	float: right;
+	position: relative;
+}
+
+.phone {
+	width: 320px;
+	height: 470px;
+	background: white;
+	margin: 20px;
+	border-radius: 20px;
+	position: relative;
+	float: right;
+}
+
+.display {
+	width: 290px;
+	height: 380px;
+	background: #010101;
+	position: absolute;
+	top: 43px;
+	left: 15px;
+}
+
+.phone_text {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 164px;
+}
+.phone_text img {
+	float: left;
+}
+.phone_text .logo_text {
+	font-size: 32px;
+	font-weight: bold;
+	padding: 3px 8px;
+	color: #FCDB00;
+	float: left;
+}
+.custom-nav-link {
+    font-weight: bold;
+    color: #000;
+}
+.inspire-col {
+    padding: 120px 0;
+}
